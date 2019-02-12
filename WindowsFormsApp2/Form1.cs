@@ -33,10 +33,7 @@ namespace WindowsFormsApp2
             {
                 double x = -b / (2 * a);
                 label1.Text = "x  = " + x;
-            }  else
-            {
-                label1.Text = "Нет решений";
-            }
+            } 
 
 
         }
